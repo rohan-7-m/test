@@ -1,1 +1,1 @@
-print("this is c in feature")
+print("this is c")
